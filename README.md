@@ -1,2 +1,2 @@
-# UIUC-ECE-408
+# UIUC-ECE-408-Applied Parallel Programming
 Machine Problem Code
